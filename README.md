@@ -50,7 +50,7 @@ The model predicts passenger survival with good accuracy and visualizes importan
 
 ### Author
 
-**Pragati Kamdi**
+**Pragati Kamdi.**
 
 **CodSoft Data Science Intern**
 .
